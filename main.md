@@ -97,6 +97,7 @@ class Channels(client: HttpClient, token: String) {
 - HttpClientを単体テスト用のに置き換え
 - Mock or 継承(scala-slackはMock)
 - クエリとJSONのパースがテスト可能
+- CIサービスに登録するとなお良い
 
 --
 
